@@ -49,4 +49,4 @@ POPC-POPG 7:3 310K gromos-ckp
 
 
 # Working directory
-dir_wrk  = "/media/akiirikk/DATADRIVE1/tietokanta/Data/tmp/DATABANK/"
+dir_wrk  = "/media/osollila/Data/tmp/DATABANK/"

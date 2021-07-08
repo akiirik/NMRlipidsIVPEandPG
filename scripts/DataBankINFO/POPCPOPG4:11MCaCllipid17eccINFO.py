@@ -1,4 +1,4 @@
-DOI="10.5281/zenodo.3997184"
+DOI="10.5281/zenodo.4492639"
 user_information = """
 POPC:POPG (4:1) lipid17ecc + 1 M CaCl
 #NMRLIPIDS BEGIN
@@ -43,4 +43,4 @@ POPC:POPG (4:1) lipid17ecc + 1 M CaCl
 #NMRLIPIDS END
 
 """
-dir_wrk = "/media/osollila/Data1/tmp/DATABANK/"
+dir_wrk = "/media/osollila/Data/tmp/DATABANK/"
